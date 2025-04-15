@@ -1,4 +1,4 @@
-package iphonedio.navegador;
+package edu.digitalinovationone.poo.navegador;
 
 public interface Navegador {
     public void exibirPagina(String url);

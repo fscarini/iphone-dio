@@ -1,7 +1,7 @@
-package iphonedio.iphone;
-import iphonedio.aparelhotelefonico.AparelhoTelefonico;
-import iphonedio.navegador.Navegador;
-import iphonedio.reprodutormusical.ReprodutorMusical;
+package edu.digitalinovationone.poo.iphone;
+import edu.digitalinovationone.poo.aparelhotelefonico.AparelhoTelefonico;
+import edu.digitalinovationone.poo.navegador.Navegador;
+import edu.digitalinovationone.poo.reprodutormusical.ReprodutorMusical;
 
 public class Iphone implements AparelhoTelefonico, Navegador, ReprodutorMusical{
     

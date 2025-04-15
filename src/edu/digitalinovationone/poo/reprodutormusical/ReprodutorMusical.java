@@ -1,4 +1,4 @@
-package iphonedio.reprodutormusical;
+package edu.digitalinovationone.poo.reprodutormusical;
 
 public interface ReprodutorMusical {
    public void tocar();

@@ -1,4 +1,4 @@
-package iphonedio.aparelhotelefonico;
+package edu.digitalinovationone.poo.aparelhotelefonico;
 
 public interface AparelhoTelefonico {
     public void ligar(String numero);

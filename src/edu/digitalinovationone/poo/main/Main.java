@@ -1,5 +1,5 @@
-package iphonedio;
-import iphonedio.iphone.Iphone;
+package edu.digitalinovationone.poo.main;
+import edu.digitalinovationone.poo.iphone.Iphone;
 import java.util.Scanner;
 import java.io.PrintStream;
 import java.nio.charset.StandardCharsets;
